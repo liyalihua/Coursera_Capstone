@@ -1,0 +1,10 @@
+1. Gebied_buurten  verdeeld in 482
+	https://maps.amsterdam.nl/open_geodata/?LANG=en
+
+2. Gebied_buurtcombinaties verdeeld in 99
+	https://maps.amsterdam.nl/open_geodata/?k=200
+
+
+3. Criminaliteit
+
+https://data.amsterdam.nl/datasets/Ycabtk0R3FCaDg/jeugd-en-volwassenencriminaliteit-2015-2019/
